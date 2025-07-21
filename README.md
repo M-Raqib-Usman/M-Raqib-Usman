@@ -10,7 +10,7 @@ My approach combines creativity with technical expertise, ensuring high-quality 
 Connect with me on [LinkedIn](https://linkedin.com/in/yourusername) to collaborate or discuss exciting opportunities!
 
 ## 📍 Location
-- Sahiwal, Punjab, Pakistan
+- Fort Abbas, Punjab, Pakistan
 
 ## 🛠️ Skills
 - Flutter (Mobile App Development)
