@@ -7,7 +7,7 @@ Software Engineer passionate about exploring new technologies and innovative sol
 
 My approach combines creativity with technical expertise, ensuring high-quality results in every project. I am always eager to learn, adapt, and contribute to teams working at the forefront of technology.
 
-Connect with me on [LinkedIn](https://linkedin.com/in/yourusername) to collaborate or discuss exciting opportunities!
+Connect with me on [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/muhammad-raqib-usman-39198934b/)) to collaborate or discuss exciting opportunities!
 
 ## 📍 Location
 - Fort Abbas, Punjab, Pakistan
@@ -15,11 +15,9 @@ Connect with me on [LinkedIn](https://linkedin.com/in/yourusername) to collabora
 ## 🛠️ Skills
 - Flutter (Mobile App Development)
 - Shopify Store Design
-- HTML/CSS
+- HTML/CSS/JS
 - Git & GitHub
 
-## 📊 Stats
-![M-Raqib-Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Raqib-Usman&show_icons=true)
 
 ---
 *Thanks for visiting!*
