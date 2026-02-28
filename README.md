@@ -7,7 +7,7 @@ Software Engineer passionate about exploring new technologies and innovative sol
 
 My approach combines creativity with technical expertise, ensuring high-quality results in every project. I am always eager to learn, adapt, and contribute to teams working at the forefront of technology.
 
-Connect with me on [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/muhammad-raqib-usman-39198934b/)) to collaborate or discuss exciting opportunities!
+Connect with me on [LinkedIn]((https://www.linkedin.com/in/muhammad-raqib-usman-39198934b/)) to collaborate or discuss exciting opportunities!
 
 ## 📍 Location
 - Fort Abbas, Punjab, Pakistan
